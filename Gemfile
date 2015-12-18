@@ -9,6 +9,8 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'therubyracer', platforms: :ruby
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
+gem 'active_model_serializers', '~> 0.9.3'
+gem 'font-awesome-rails'
 
 gem 'jquery-rails'
 gem 'turbolinks'
